@@ -38,8 +38,4 @@ INTERMEDIO.
 
 
 ## Archivos
-- `README.md`: Información descriptiva del proyecto y cómo ejecutarlo.
-- `index.html`: Contiene la estructura principal del sitio web.
-- `app.js`: Contiene la lógica en JavaScript para capturar el nombre y mostrar el saludo personalizado.
-- `diseño.css`: Estilo visual del proyecto.
-- `img`: Recursos gráficos (imágenes). 
+- `README.md`
