@@ -13,7 +13,7 @@
             <img src="img/imagen03.jpg" style="width: 100%; height: auto;"/>  
             <br><strong>Johnson Palomino</strong>
         </td>
-        <td align="center" style="width: 25%;">
+        <td align="center">
             <img src="img/fotojhostyn.jpeg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"/>  
             <br><strong>Jhostyn Malpartida</strong>
         </td>
