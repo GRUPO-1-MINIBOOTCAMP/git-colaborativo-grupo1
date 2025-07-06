@@ -1,0 +1,3 @@
+Somos un equipo de 6 estudiantes dedicados a dominar Git y GitHub 
+para optimizar nuestra colaboración y trabajo en equipo, facilitando el desarrollo eficiente 
+de proyectos conjuntos y el intercambio efectivo de conocimientos.
