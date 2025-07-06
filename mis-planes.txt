@@ -1,3 +1,6 @@
 1. Aprender a implementar React Server Components para mejorar rendimiento.
 2. Integrar herramientas de IA para optimizar diseño y pruebas de UI/UX.
 3. Mejorar la accesibilidad web para crear interfaces inclusivas.
+4. Contribuir a proyectos open source.
+5. Aprender un nuevo framework.
+6. Obtener una certificación técnica.
