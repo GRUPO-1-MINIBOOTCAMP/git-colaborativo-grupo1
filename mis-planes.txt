@@ -1,3 +1,3 @@
-1. Terminar el bootcamp.
-2. Hacer más proyectos personales.
-3. Postular a un buen trabajo.
+1. Contribuir a proyectos open source.
+2. Aprender un nuevo framework.
+3. Obtener una certificación técnica.
